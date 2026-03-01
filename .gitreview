@@ -1,0 +1,5 @@
+[gerrit]
+host=review.calyxos.org
+port=29418
+project=CalyxOS/platform_hardware_qcom-caf_sm8650_display
+defaultbranch=android17
